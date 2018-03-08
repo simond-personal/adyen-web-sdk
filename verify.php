@@ -25,4 +25,6 @@ header("Content-type: application/json");
 
 $client = new Client();
 $data = json_encode($_POST['payloadData']);
+
+/* -> is equivalent to the dot notation e.g. client.verify(data) */
 echo $client->verify($data);
