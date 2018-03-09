@@ -39,6 +39,7 @@ class Client
             'shopperReference' => $order->getShopperReference(),
             'shopperLocale' => $order->getShopperLocale(),
             'reference' => $order->getReference(),
+            'sdkVersion' => '1.3.0',
 
             /** All server specific settings can be found in config/Config.php */
 
