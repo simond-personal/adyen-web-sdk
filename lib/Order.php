@@ -86,11 +86,11 @@ class Order
     }
     
     /** @var $sdkVersion - set this at the same time as changing your SDK version in index.php - added 9 March 2018 (SD) */
-    public $sdkVersion = '1\.3\.0';
+    /*public $sdkVersion = '1\.3\.0';
 
     public function getSdkVersion()
     {
         return $this->sdkVersion;
     }
 
-}
+} */
