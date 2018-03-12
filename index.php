@@ -35,7 +35,7 @@ date_default_timezone_set("Europe/Amsterdam");
     
     <!-- Checkout SDK updated to 1.3.0 - 9 March 2018 -->
     <script type="text/javascript"
-            src="https://checkoutshopper-test.adyen.com/checkoutshopper/assets/js/sdk/checkoutSDK.1.3.0.min.js"></script>
+            src="https://checkoutshopper-test.adyen.com/checkoutshopper/assets/js/sdk/checkoutSDK.1.2.2.min.js"></script>
     <script src="assets/js/setupCall.js" type="text/javascript"></script>
     <link rel="stylesheet" href="assets/css/main.css">
 </head>
